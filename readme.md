@@ -1,6 +1,6 @@
 # Projeto: Classificação de Vinhos com MLflow
 
-Este projeto tem como objetivo praticar o uso do **MLflow** em um problema simples de machine learning. A base de dados utilizada é a clássica `Wine Dataset`, que contém características químicas de diferentes tipos de vinhos. O objetivo do modelo é classificar o tipo de vinho com base em suas características químicas.
+Este projeto tem como objetivo demonstrar o uso do **MLflow** de forma rápida e objetiva em um problema simples de machine learning. A base de dados utilizada é a clássica `Wine Dataset`, que contém características químicas de diferentes tipos de vinhos. O objetivo do modelo é classificar o tipo de vinho com base em suas características químicas.
 
 # Estrutura do Projeto
 <pre><code>"""
